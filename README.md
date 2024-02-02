@@ -1,9 +1,18 @@
-##### Meu segundo back-end criado com NodeJS utilizando o TypeScript!
+## Requirements
 
-##### Contém endpoints de cadastro, login e autenticação com JSONWEBTOKEN (JWT) e mais um endpoint onde puxa todos os usuários do banco de dados, com a criação de um middleware para "proteger" o endpoint.
+- Nodejs
+- MySql
+
+## How do i run the project locally?
+
+First, install all dependencies:
 
 ```
-mysql
-nodejs
-typescript
-````
+npm install
+```
+
+After, run the command:
+
+```
+npm run dev
+```
